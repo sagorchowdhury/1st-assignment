@@ -2,13 +2,13 @@ head{
     font-family: 'Poppins', sans-serif;
 }
 h1{
-    font-size: 70px;
+    font-size: 60px;
 }
 
 .span{
     color: rgb(233, 16, 59);
 }
-.section{
+section{
     display: flex;
    
 }
@@ -19,7 +19,7 @@ h1{
 }
 .half-width img{
 
-    width: 100%;
+    width:100%;
 }
 .link-button{
     font-size: 20px;
@@ -30,5 +30,38 @@ border-radius: 40px;
 font-weight: 700;
 color: white;
 }
+.half-width-2{
+
+    width: 50%;
+
+
+}
+
+.half-width-2 img {
+
+width: 60%;
+}
+h2{
+    font-size: 30px;
+
+}
+.section {
+background-image: url( pickture/images/shapes/Frame\ 59.jpg);
+ padding-left: 15%;
+ padding-right: 10%;
+ padding-top: 8%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
